@@ -1,6 +1,6 @@
 # requirements.txt
 
-tensorflow==2.6.0
+tensorflow==2.11.1
 nltk==3.6.2
 gTTS==2.2.3
 SpeechRecognition==3.8.1
